@@ -1,5 +1,5 @@
 <h1>Bem vindo turma 12 B itaú</h1>
-
+teste
 <? 
 
 $i = 1;
